@@ -30,6 +30,4 @@ python3
 
 ### Contributors
 
-[m.siampou](https://github.com/msiampou) .
-
-[adam](https://github.com/Zamanfouu) .
+[m.siampou](https://github.com/msiampou) & [zamanfouu](https://github.com/Zamanfouu)
