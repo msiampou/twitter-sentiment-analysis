@@ -4,6 +4,20 @@ Creating a Twitter Sentiment Analysis Program in Python with KNN, SVM and Round 
 
 ## Getting Started
 
+### Getting Started
+
+#### Install python3
+In case you did not have Python installed:
+
+``` sudo apt-get install python3 ``` 
+
+or in case you only need to upgrate it to latest version:
+
+``` sudo apt-get update && sudo apt-get upgrade python3 ```
+
+#### Install pandas
+``` pip install pandas ``` 
+
 ### Install ntlk
 
 ``` 
