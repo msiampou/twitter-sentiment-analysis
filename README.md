@@ -27,3 +27,9 @@ python3
 
 ### Open Jupyter
 ``` jupyter notebook ```
+
+### Contributors
+
+[m.siampou](https://github.com/msiampou) .
+
+[adam](https://github.com/Zamanfouu) .
