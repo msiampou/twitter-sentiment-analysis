@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis
 
+Creating a Twitter Sentiment Analysis Program in Python with KNN, SVM and Round Robin Classification Algorithms.
+
 ## Getting Started
 
 ### Install ntlk
