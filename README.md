@@ -2,8 +2,6 @@
 
 Creating a Twitter Sentiment Analysis Program in Python with KNN, SVM and Round Robin Classification Algorithms.
 
-## Getting Started
-
 ### Getting Started
 
 #### Install python3
@@ -18,7 +16,7 @@ or in case you only need to upgrate it to latest version:
 #### Install pandas
 ``` pip install pandas ``` 
 
-### Install ntlk
+#### Install ntlk
 
 ``` 
 pip install nltk
